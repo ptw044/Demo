@@ -1,0 +1,35 @@
+{
+    "application": {
+        "id": "",
+        "title": "Cordova",
+        "description": "Cordova App",
+        "type": "SAP_UI5_Component",
+        "componentUrl": "/",
+        "appUrl": "#Cordova-Display",
+        "navigationComponentName": "com.sample.cordova",
+        "intentSemanticObject": "Cordova",
+        "intentAction": "Display",
+        "html5ApplicationName": "cordova",
+        "HCPParentApplicationName": ""
+    },
+    "assignment": {
+        "groups": [
+            "c2999b51-b6b9-44dc-806c-0c8283e15da2-1474372351178"
+        ],
+        "contentPackages": [
+            "2f5a5a0a-28c0-40f1-a835-0f9b1fc08202-1474370774180"
+        ],
+        "categories": []
+    },
+    "tile": {
+        "type": "StaticTile",
+        "title": "Cordova App",
+        "subtitle": "cordova app",
+        "searchKeywords": "Cordova App,cordova app",
+        "displayIconUrl": "sap-icon://camera",
+        "displayInfoText": "",
+        "size": "1x1",
+        "serviceURL": "",
+        "refreshInterval": ""
+    }
+}

@@ -1,0 +1,30 @@
+<mvc:View controllerName="com.sample.cordova.controller.Main" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:mvc="sap.ui.core.mvc"
+	displayBlock="true" xmlns="sap.m">
+	<App>
+		<pages>
+			<Page title="{i18n>title}">
+				<content>
+					
+					<VBox>
+					
+					<Button text="BarcodeSCan" press="onScan" />
+					
+					
+					<Button text="Trackme" press="onGetLocation" />
+					
+					<Button text="GetDeviceInfo" press="getDeviceInfo" />
+					
+					
+				     <Button text="ReadContacts" press="coRead" />
+				     
+				     <Button text="cross" press="crossApp" />
+					
+					
+				</VBox>	
+					
+					
+				</content>
+			</Page>
+		</pages>
+	</App>
+</mvc:View>
