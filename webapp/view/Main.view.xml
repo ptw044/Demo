@@ -7,7 +7,7 @@
 					
 					<VBox>
 					
-					<Button text="BarcodeScanner" press="onScan" />
+					<Button text="BarcodeScanner1" press="onScan" />
 					
 					
 					<Button text="Trackme" press="onGetLocation" />
